@@ -8,13 +8,15 @@
     <link rel="icon" href="/images/favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Staatliches&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/app.css">
 
 
     <title>@yield('title')</title>
   </head>
   <body>
     <header>
-      {{-- @include('header') --}}
+      @include('header')
     </header>
 
     <main>
