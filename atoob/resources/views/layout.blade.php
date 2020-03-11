@@ -24,7 +24,7 @@
     </main>
 
     <footer>
-      {{-- @include('footer') --}}
+      @include('footer')
 
     </footer>
 
