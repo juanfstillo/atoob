@@ -12,5 +12,20 @@
 */
 
 Route::get('/', function () {
+    return view('index');
+});
+Route::get('/nosotros', function () {
     return view('nosotros');
+});
+Route::get('/nun', function () {
+    return view('nun');
+});
+Route::get('/socios-regiones', function () {
+    return view('socios-regiones');
+});
+Route::get('/noticias', function () {
+    return view('noticias');
+});
+Route::get('/comision-directiva', function () {
+    return view('comision-directiva');
 });
