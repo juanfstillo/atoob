@@ -57,7 +57,7 @@
 
       <!-- Grid column -->
       <div class="col-md-8 col-12 mt-5">
-        <p style="line-height: 1.8rem"> La Asociación de Traumatología y Ortopedia del Oeste Bonaerense (ATOOB), creada hace ya 20 años,
+        <p style="font-size:1.1rem"> La Asociación de Traumatología y Ortopedia del Oeste Bonaerense (ATOOB), creada hace ya 20 años,
           tiene como finalidad el mejoramiento científico y la categorización profesional de la disciplina; así como también su accionar
           gremial junto a otras entidades médicas con el objetivo dignificar el trabajo médico, en un marco de diálogo y
            entendimiento para así cubrir las necesidades sociales. .</p>

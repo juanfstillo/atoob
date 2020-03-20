@@ -29,3 +29,6 @@ Route::get('/noticias', function () {
 Route::get('/comision-directiva', function () {
     return view('comision-directiva');
 });
+Route::get('/mision-objetivos', function () {
+    return view('mision-objetivos');
+});
