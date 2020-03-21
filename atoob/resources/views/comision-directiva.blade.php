@@ -4,6 +4,11 @@
 @endsection
 
 @section('main')
+  <div class="row">
+    <div class="col 12 text-center">
+      <h1 class="display-4 text-center text-uppercase p-4"> comisión directiva </h1>
+    </div>
+  </div>
   <div class="card mx-auto p-4" style="max-width: 540px;">
     <div class="row no-gutters">
       <div class="col-md-4">

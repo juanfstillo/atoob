@@ -32,3 +32,9 @@ Route::get('/comision-directiva', function () {
 Route::get('/mision-objetivos', function () {
     return view('mision-objetivos');
 });
+Route::get('/codigo-etica', function () {
+    return view('codigo-etica');
+});
+Route::get('/convenios', function () {
+    return view('convenios');
+});
